@@ -1,0 +1,5 @@
+coisa = input('Digite qualquer coisa: ')
+print('O valor digitado tem somente numeros?', coisa.isnumeric())
+print('O valor digitado tem somente letras?', coisa.isalpha())
+print('O valor digitado, tem somente letras maiúsculas?', coisa.isupper())
+print('O valor digitado, tem letras e numeros?', coisa.isalnum())
