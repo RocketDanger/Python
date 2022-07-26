@@ -1,0 +1,10 @@
+jogador = input ("Jogador1:")
+jogadordois = input ("Jogador2:")
+maior = "Pedra", "Tesoura", "Papel"
+menor = "Pedra", "Tesoura", "Papel"
+
+
+if jogador == "Pedra" "Tesoura" "Papel":
+    print("Jogador1 venceu")
+else:
+    print("Jogador2 Venceu")
